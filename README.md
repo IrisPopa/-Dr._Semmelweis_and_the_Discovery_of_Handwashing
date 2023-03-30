@@ -20,3 +20,5 @@ This contains yearly hospital-level data on births and maternal deaths.
 - births: total number of births at the hospital
 - deaths: number of maternal deaths at the hospital
 - hospital: hospital (either Vienna or Dublin). At the Vienna General Hospital where Dr. Semmelweis worked, doctors began performing pathological autopsies in 1823. At the Dublin Rotunda Hospital, doctors did not perform pathological autopsies at all.
+
+This is a guided project I have done on the DataCamp platform. In a guided project, learners are provided with a set of instructions and a specific goal to achieve using a real-world dataset.
