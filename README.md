@@ -1,4 +1,4 @@
-# -Dr._Semmelweis_and_the_Discovery_of_Handwashing
+# Dr._Semmelweis_and_the_Discovery_of_Handwashing
 
 Using techniques, such as data manipulation, data visualization, probability and statistics, and data import and cleaning,
 I evaluated the data that forms the basis of one of the most crucial discoveries in modern medicine - the importance of handwashing.
